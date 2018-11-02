@@ -21,11 +21,11 @@
     "build/*"
   ],
   "devDependencies": {
-    "@babel/core": "^7.1.2",
     "@lingui/cli": "^2.7.0",
     "@lingui/macro": "^2.7.0",
-    "babel-core": "^7.0.0-bridge.0",
+    "babel-core": "^6.26.3",
     "babel-plugin-macros": "^2.4.2",
+    "babel-preset-preact": "^1.1.0",
     "eslint": "^4.9.0",
     "eslint-config-synacor": "^2.0.2",
     "identity-obj-proxy": "^3.0.0",
